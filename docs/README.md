@@ -133,7 +133,7 @@
 
 ### 2020/04 - 2022/03 : 専門学校の非常勤講師
 
-- フリーランスエンジニアとしての知見を評価いただき、専門学校で非常勤講師として情報科目（PHP)を教えています
+- フリーランスエンジニアとしての知見を評価いただき、専門学校で非常勤講師として職業実践の科目として PHP を教えています
 
 ### 2019/05 - : フリーランスエンジニア
 
@@ -190,9 +190,10 @@
   - リードエンジニアとして本プロジェクトに参画
 - 開発環境
   - Lua、Corona SDK、PHP、MySQL
-- サービス URL(開発担当としてメディア露出していたため記載）
+- サービス URL
   - [iOS](https://itunes.apple.com/jp/app/%E3%82%8F%E3%81%95%E3%81%B3%E3%82%B2%E3%83%BC%E3%83%A0/id1346472047?mt=8)
   - [Android](https://play.google.com/store/apps/details?id=com.wasabi.okami)
+  - 開発担当としてメディア露出していたため記載
 
 #### 2017年4月〜2017年9月 メッセージ型カジュアルゲームの開発
 
@@ -249,7 +250,7 @@
 ### 個人開発
 
 - AI ノほめのびくん
-  - https://aino-homenobi.kusutan.com/ 
+  - [https://aino-homenobi.kusutan.com/](https://aino-homenobi.kusutan.com/) 
   - OpenAI を活用した投稿者をほめてくれるアプリ
   - Firebase, Flutter Webs 製のアプリ
 
@@ -259,12 +260,12 @@
 
 - メタバース焚火会
   - 2022 年 11 月に発足したメタバース内での交流を図るコミュニティ 
-  - https://metaverse-bonfire.connpass.com/event/269459/
+  - [https://metaverse-bonfire.connpass.com/event/269459/](https://metaverse-bonfire.connpass.com/event/269459/)
   - [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4/)
 - 鹿児島.mk
   - 鹿児島を中心に活動するエンジニアの勉強会コミュニティ
   - 2023 年 1 月現在、開催回数 42 回、メンバー228 人 
-  - https://kagoshima-mk.connpass.com/event/269960/ 
+  - [https://kagoshima-mk.connpass.com/event/269960/](https://kagoshima-mk.connpass.com/event/269960/) 
   - [鹿児島でエンジニアコミュニティを立ち上げて半年で急成長した話](https://blog.kusutan.com/articles/c-kA7Ly1WStzxwoENpXD3Z/)
 
 <!-- textlint-enable -->
@@ -272,19 +273,19 @@
 ### 登壇
 
 - さくらじまハウス 2022 (2022/10/27 - 28)
-  - https://www.sakurajima-house.tech/
+  - [https://www.sakurajima-house.tech/](https://www.sakurajima-house.tech/)
 - Web ナイト宮崎 Vol.12 (2021/01/22)
   - [LaravelをPHP8で動かしてみた](https://speakerdeck.com/qst_exe/laravelwophp8dedong-kasitemita) 
 - K-Ruby#25 (2020/11/26)
   - [spearly_flutterによる爆速開発のすゝめ](https://speakerdeck.com/qst_exe/spearly-flutterniyorubao-su-kai-fa-falsesu-me) 
 - さくらじまハウス 2020 (2020/02/06 - 07)
-  - https://www.sakurajima-house.tech/2020
+  - [https://www.sakurajima-house.tech/2020](https://www.sakurajima-house.tech/2020)
 - K-Ruby #24 (2019/10/21)
   - [Flutter+Railsで爆速アプリ開発](https://speakerdeck.com/qst_exe/flutter-plus-railsdebao-su-apurikai-fa) 
 - K-Ruby #23 (2019/06/12)
   - [初学者がRailsを学ぶことの功罪](https://speakerdeck.com/qst_exe/chu-xue-zhe-garailswoxue-bukotofalsegong-zui)
 - その他の登壇資料
-  - https://speakerdeck.com/qst_exe 
+  - [https://speakerdeck.com/qst_exe](https://speakerdeck.com/qst_exe) 
 
 ## 希望条件
 
