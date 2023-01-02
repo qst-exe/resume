@@ -2,5 +2,5 @@ title: Task Nagashige の職務経歴書
 description: Task Nagashige a.k.a. qst-exe の職務経歴書です。
 author: qst-exe
 baseurl: "/resume"
-url: "https://qst-exe.github.io/"
-theme: jekyll-theme-architect
+url: "https://qst-exe.github.io"
+theme: jekyll-theme-cayman
