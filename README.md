@@ -1,8 +1,8 @@
-# { name } resume
+# qst-exe's resume
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://github.com/qst-exe/resume
 
 ## Features
 
