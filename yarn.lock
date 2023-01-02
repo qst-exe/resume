@@ -55,14 +55,14 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@textlint-ja/textlint-rule-no-insert-dropping-sa@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@textlint-ja/textlint-rule-no-insert-dropping-sa/-/textlint-rule-no-insert-dropping-sa-1.0.1.tgz#ef36819be8301998a764a87bd8ecca2a8e004849"
-  integrity sha1-7zaBm+gwGZinZKh72OzKKo4ASEk=
+"@textlint-ja/textlint-rule-no-insert-dropping-sa@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@textlint-ja/textlint-rule-no-insert-dropping-sa/-/textlint-rule-no-insert-dropping-sa-2.0.1.tgz#7b193356b06aebfe4e19b1c12554215089862f40"
+  integrity sha512-ayBSq7K54TeA23dJt/oZeC4532+IwJ6J7ejHvbLV3AgdqlyXEC3xkVsBFmxT90sUegWxpzJwu9qBeByfVXR2FA==
   dependencies:
     array-find-index "^1.0.2"
-    kuromojin "^1.3.2"
-    morpheme-match-all "^1.1.0"
+    kuromojin "^3.0.0"
+    morpheme-match-all "^2.0.5"
 
 "@textlint-rule/textlint-rule-no-invalid-control-character@^2.0.0":
   version "2.0.0"
