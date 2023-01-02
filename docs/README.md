@@ -102,7 +102,11 @@
 - 開発環境
   - React, TypeScript
 
+<!-- textlint-disable -->
+
 ### 2022/04 - : ヘッジホッグ.exe合同会社
+
+<!-- textlint-enable -->
 
 #### メタバースに関する新規事業開発
 
@@ -129,7 +133,7 @@
 
 ### 2020/04 - 2022/03 : 専門学校の非常勤講師
 
-- フリーランスエンジニアとしての知見を評価いただき、専門学校で非常勤講師として情報科目(PHP)を教えています
+- フリーランスエンジニアとしての知見を評価いただき、専門学校で非常勤講師として情報科目（PHP)を教えています
 
 ### 2019/05 - : フリーランスエンジニア
 
@@ -166,7 +170,7 @@
 - 開発環境
   - Firebase, Flutter, Nuxt.js, TypeScript
 - 対応機能
-  - 電話の自動架電・音声応答機能、位置情報管理機能
+  - 電話の自動架電・音声応答機能、位置情報の管理機能
 
 #### 人材マッチングサービス
 
@@ -230,7 +234,8 @@
 
 #### 2013年10月〜2014年9月 音声系SNS「トークスペース」の開発
 
-音声版 Twitter のようなサービスで、ユーザーが自身の声を投稿してコミュニケーションするサービス。掲示板のようにスレッドを立てて音声で会話したり、Twitter のタイムラインのように音声をツイートできたりする
+- 音声版 Twitter のようなサービスで、ユーザーが自身の声を投稿してコミュニケーションするサービス
+- 掲示板のようにスレッドを立てて音声で会話したり、Twitter のタイムラインのように音声をツイートできたりする
 
 - 担当フェーズ
   - 要件定義、設計、フロントエンド・バックエンドの開発、テスト
@@ -243,32 +248,36 @@
 
 ### 個人開発
 
-- AIノほめのびくん
+- AI ノほめのびくん
   - https://aino-homenobi.kusutan.com/ 
-  - OpenAIを活用した投稿者をほめてくれるアプリ
+  - OpenAI を活用した投稿者をほめてくれるアプリ
   - Firebase, Flutter Webs 製のアプリ
 
 ### 勉強会・コミュニティの開催
 
+<!-- textlint-disable -->
+
 - メタバース焚火会
-  - 2022年11月に発足したメタバース内での交流を図るコミュニティ 
+  - 2022 年 11 月に発足したメタバース内での交流を図るコミュニティ 
   - https://metaverse-bonfire.connpass.com/event/269459/
   - [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4/)
 - 鹿児島.mk
   - 鹿児島を中心に活動するエンジニアの勉強会コミュニティ
-  - 2023年1月現在、開催回数42回、メンバー228人 
+  - 2023 年 1 月現在、開催回数 42 回、メンバー228 人 
   - https://kagoshima-mk.connpass.com/event/269960/ 
   - [鹿児島でエンジニアコミュニティを立ち上げて半年で急成長した話](https://blog.kusutan.com/articles/c-kA7Ly1WStzxwoENpXD3Z/)
 
+<!-- textlint-enable -->
+
 ### 登壇
 
-- さくらじまハウス2022 (2022/10/27 - 28)
+- さくらじまハウス 2022 (2022/10/27 - 28)
   - https://www.sakurajima-house.tech/
-- Webナイト宮崎 Vol.12 (2021/01/22)
+- Web ナイト宮崎 Vol.12 (2021/01/22)
   - [LaravelをPHP8で動かしてみた](https://speakerdeck.com/qst_exe/laravelwophp8dedong-kasitemita) 
 - K-Ruby#25 (2020/11/26)
   - [spearly_flutterによる爆速開発のすゝめ](https://speakerdeck.com/qst_exe/spearly-flutterniyorubao-su-kai-fa-falsesu-me) 
-- さくらじまハウス2020 (2020/02/06 - 07)
+- さくらじまハウス 2020 (2020/02/06 - 07)
   - https://www.sakurajima-house.tech/2020
 - K-Ruby #24 (2019/10/21)
   - [Flutter+Railsで爆速アプリ開発](https://speakerdeck.com/qst_exe/flutter-plus-railsdebao-su-apurikai-fa) 
