@@ -2,12 +2,23 @@
 
 ## 基本情報
 
-|key| value                                   |
-|--|-----------------------------------------|
-|氏名| Task Nagashige                          |
+|key| value |
+|--|---|
+|氏名| Task Nagashige |
 |生年月日| 1991/12/19 |
 |居住地|鹿児島県|
 |最終学歴|鹿児島大学|
+
+
+## 概要
+
+エンジニアとして 8 年の実務経験があります。ゲームアプリの開発やモバイルアプリ、Web アプリの開発と運用を経験しました。
+リリースサイクルの短いアプリを短期間に開発したり、フロントエンドとバックエンドを同時に触る機会が多かったため、複数プロジェクトに対して横断的に参画できます。
+
+アプリの海外展開（簡体字・繁体字・韓国語）や海外出身の方とのコミュニケーションを取る機会が多々あったため、英語でのコミュニケーションに抵抗はありません。  
+（ただし英語のスピーキングは遅いため、リーディングとライティング、リスニングが中心の方がありがたいです）
+
+また、自身でも会社を立ち上げてモバイルアプリの受託開発やメタバースの新規事業開発をしているため、プロジェクトマネジメントやディレクション、セールスといった領域にも積極的に関わっていきたい思いがあります。
 
 ---
 
@@ -26,7 +37,7 @@
     <img alt="SpeakerDeck" src="https://img.shields.io/badge/qst_exe-009287.svg?&style=flat&logo=SpeakerDeck&logoColor=white" />
   </a>
   <a href="https://blog.kusutan.com/" target="_blank" aria-label="メタバースで遊ぶ鹿児島のアプリエンジニア">
-    <img alt="メタバースで遊ぶ鹿児島のアプリエンジニア" src="https://img.shields.io/badge/qst_exe-%2381d0cb.svg?&style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAATspU+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDYuMC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KGV7hBwAAAnNJREFUKBVNkUtME1EYhb+5M9NSoLZFFEhUhGAEa3wkojEuXWkkmrh2a0xcGmM0btxo3CALFxBdG2PiY4ELUWLQCGqCIrGCRh5qW9tOpaXl0c5MO94ZNOG/mZk7N+f85z/nKtZiwVFQcORSFAVV01heWsLn86HJfaVSwS1FPs66r+YeuiS3hBBMTn7i7ehruqJRotE9RMIRj7yG8GBeE+GqOI4ju+sY2SxfpmO0tm/HMNI8fzlMxsigqeoaY91bSNa/X4fV0grBUIhyqUw4FMQsLTH6bgzLtjwbLvA/2hvVY0pl07TIL2SJhOqprQsQ3dVJxdRQhU6lantk16tbHtEzXnXY3NjAkX1dmOi0bmvBsW2mMzGWzUWC9Y1yghXZRI4tpxSutCIUbAkKbQgT8tcyE/9MsbBAPp1iZOo21/uvYvxOy6T9VKtVSVAQrqwj1XRdw8gnWUikOX/jLPeePGA+Ncv4sA8r18ytu30kUj/Q/QEvZeEmqspEC8Uiw7O9PEz2smPTUb4a73k6MciGJoPu7r3E41nu3O/DspZlyrq8OinrlmmV2S2OofibOdRTYXWpilZfRK35ScVZZX/0ANeu9PNm8hnCr+HdYya/KONYJqI30V57nI1hH0olKH2o+PUW5hIfqGsQnDpxmqFXj5mPxxC29GcYf1jJGowniqTyNqvqEDOpQUrlAj7RQsoaYUuTYODmJWqyYea+J1GsQtGxzTKJ+TkSRZmWsDGD31gxAkzNv+BjbIAzJx8RcAIkJ8aI/cpx4eJlNEWG4/PXsLVjJ22qgpHL4a/vROvQSCeyJHMy/VIN0YOHiRuCcz1tNDRE+AuSmgxxrUZyRQAAAABJRU5ErkJggg==&logoColor=white" />
+    <img alt="メタバースで遊ぶ鹿児島のアプリエンジニア" src="https://img.shields.io/badge/メタバースで遊ぶ鹿児島のアプリエンジニア-%2381d0cb.svg?&style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAATspU+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDYuMC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KGV7hBwAAAnNJREFUKBVNkUtME1EYhb+5M9NSoLZFFEhUhGAEa3wkojEuXWkkmrh2a0xcGmM0btxo3CALFxBdG2PiY4ELUWLQCGqCIrGCRh5qW9tOpaXl0c5MO94ZNOG/mZk7N+f85z/nKtZiwVFQcORSFAVV01heWsLn86HJfaVSwS1FPs66r+YeuiS3hBBMTn7i7ehruqJRotE9RMIRj7yG8GBeE+GqOI4ju+sY2SxfpmO0tm/HMNI8fzlMxsigqeoaY91bSNa/X4fV0grBUIhyqUw4FMQsLTH6bgzLtjwbLvA/2hvVY0pl07TIL2SJhOqprQsQ3dVJxdRQhU6lantk16tbHtEzXnXY3NjAkX1dmOi0bmvBsW2mMzGWzUWC9Y1yghXZRI4tpxSutCIUbAkKbQgT8tcyE/9MsbBAPp1iZOo21/uvYvxOy6T9VKtVSVAQrqwj1XRdw8gnWUikOX/jLPeePGA+Ncv4sA8r18ytu30kUj/Q/QEvZeEmqspEC8Uiw7O9PEz2smPTUb4a73k6MciGJoPu7r3E41nu3O/DspZlyrq8OinrlmmV2S2OofibOdRTYXWpilZfRK35ScVZZX/0ANeu9PNm8hnCr+HdYya/KONYJqI30V57nI1hH0olKH2o+PUW5hIfqGsQnDpxmqFXj5mPxxC29GcYf1jJGowniqTyNqvqEDOpQUrlAj7RQsoaYUuTYODmJWqyYea+J1GsQtGxzTKJ+TkSRZmWsDGD31gxAkzNv+BjbIAzJx8RcAIkJ8aI/cpx4eJlNEWG4/PXsLVjJ22qgpHL4a/vROvQSCeyJHMy/VIN0YOHiRuCcz1tNDRE+AuSmgxxrUZyRQAAAABJRU5ErkJggg==&logoColor=white" />
   </a>
 </p>
 
@@ -63,13 +74,18 @@
 ### フレームワーク・その他
 
 <p>
-  <img src="https://img.shields.io/badge/-Flutter-5597D5.svg?logo=Flutter&style=flat&logoColor=5597D5&labelColor=white&color=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Flutter-5597D5.svg?logo=flutter&style=flat" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Firebase-ffffff.svg?logo=firebase&style=flat" alt="Firebase">
   <img src="https://img.shields.io/badge/-Laravel-ffffff.svg?logo=Laravel&style=flat" alt="Laravel">
   <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=Ruby-on-Rails&style=flat" alt="Rails">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat" alt="React"/>
-  <img src="https://img.shields.io/badge/-Nuxt.js-4FC08D?style=flat&logo=Nuxt.js&logoColor=white" alt="Nuxt"/>
-  <img src="https://img.shields.io/badge/-Next.js-555.svg?logo=Next.js&style=flat" alt="React"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-ffffff.svg?logo=nuxt.js&style=flat" alt="Nuxt.js">
+  <img src="https://img.shields.io/badge/-Next.js-000.svg?logo=Next.js&style=flat" alt="React"/>
+  <img src="https://img.shields.io/badge/-Shopify-ffffff.svg?logo=shopify&style=flat" alt="Shopify">
+  <img src="https://img.shields.io/badge/-Mysql-ffffff.svg?logo=mysql&style=flat" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Postgresql-ffffff.svg?logo=postgresql&style=flat" alt="Postgresql">
+  <img src="https://img.shields.io/badge/-Redis-ffffff.svg?logo=redis&style=flat" alt="Redis">
   <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat" alt="jQuery">
   <img src="https://img.shields.io/badge/-Solar2D(CoronaSDK)-0769AD.svg?logo=Solar2D&style=flat&color=orange" alt="Corona">
   <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=Unity&style=flat" alt="Unity">
@@ -80,6 +96,8 @@
 ## 職務経歴詳細
 
 ### 2022/10 - : 株式会社ユニマル
+
+職務：シニアエンジニア（Mobile App Rockstar）
 
 #### [Spearly CMS](https://cms.spearly.com/)
 
@@ -105,6 +123,8 @@
 <!-- textlint-disable -->
 
 ### 2022/04 - : ヘッジホッグ.exe合同会社
+
+職務：代表
 
 <!-- textlint-enable -->
 
@@ -137,7 +157,7 @@
 
 ### 2019/05 - : フリーランスエンジニア
 
-- フリーランスエンジニアとして、Laravel, Flutter, Nuxt.js 案件を中心にリモートワークで受けています
+- フリーランスエンジニアとして、Flutter, React, Vue 案件を中心にリモートワークで受けています
 - アプリ開発も個人で受託しています
 
 #### EC構築
@@ -181,9 +201,17 @@
 
 ### 2014/04 - 2019/04 : 株式会社freep
 
-職務：スマホアプリケーションエンジニア（フロントエンド/バックエンド）
+職務：モバイルアプリエンジニア（フロントエンド・バックエンド）
 
-#### 2017年9月〜2019年4月 連載型脱出ノベルゲームの開発
+#### カジュアルゲームの海外展開対応
+
+- 担当フェーズ
+  - 海外企業との折衝、開発（簡体字・繁体字・韓国語の i18n 対応）、テスト
+  - リードエンジニアとして本プロジェクトに参画
+- 対応機能
+  - i18n の基盤作成
+
+#### 連載型脱出ノベルゲームの開発
 
 - 担当フェーズ
   - 開発全体の統括、要件定義、設計、フロントエンド・バックエンドの開発、テスト
@@ -245,14 +273,25 @@
 - 開発環境
   - Lua、Corona SDK、PHP、MySQL
 
+---
+
 ## 業務外活動
 
 ### 個人開発
 
-- AI ノほめのびくん
+<!-- textlint-disable -->
+
+- AIノほめのびくん
   - [https://aino-homenobi.kusutan.com/](https://aino-homenobi.kusutan.com/) 
   - OpenAI を活用した投稿者をほめてくれるアプリ
-  - Firebase, Flutter Webs 製のアプリ
+  - Firebase, Flutter Web 製のアプリ
+  - 関連記事: [AIに褒めてもらって自己肯定感を上げるアプリを作った](https://zenn.dev/qst/articles/8e227aca217e0b) 
+- スーパー秘書ちゃん
+  - [https://super-hisho.kusutan.com/](https://super-hisho.kusutan.com/)
+  - OpenAI を活用した秘書的なサポートをしてくれるアプリ
+  - Firebase, Flutter Web 製のアプリ
+
+<!-- textlint-enable -->
 
 ### 勉強会・コミュニティの開催
 
@@ -261,12 +300,12 @@
 - メタバース焚火会
   - 2022 年 11 月に発足したメタバース内での交流を図るコミュニティ 
   - [https://metaverse-bonfire.connpass.com/event/269459/](https://metaverse-bonfire.connpass.com/event/269459/)
-  - [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4/)
+  - 関連記事: [鹿児島からメタバースについて色々やってるという話](https://blog.kusutan.com/articles/c-sxYqvUMRGk7VzwoJ1uy4/)
 - 鹿児島.mk
   - 鹿児島を中心に活動するエンジニアの勉強会コミュニティ
   - 2023 年 1 月現在、開催回数 42 回、メンバー228 人 
   - [https://kagoshima-mk.connpass.com/event/269960/](https://kagoshima-mk.connpass.com/event/269960/) 
-  - [鹿児島でエンジニアコミュニティを立ち上げて半年で急成長した話](https://blog.kusutan.com/articles/c-kA7Ly1WStzxwoENpXD3Z/)
+  - 関連記事: [鹿児島でエンジニアコミュニティを立ち上げて半年で急成長した話](https://blog.kusutan.com/articles/c-kA7Ly1WStzxwoENpXD3Z/)
 
 <!-- textlint-enable -->
 
@@ -287,7 +326,10 @@
 - その他の登壇資料
   - [https://speakerdeck.com/qst_exe](https://speakerdeck.com/qst_exe) 
 
+---
+
 ## 希望条件
 
 - 地方在住なのでフルリモートでの稼働を希望します
-- 新しい挑戦を推してくれる環境だとなお嬉しいです
+- 新しい挑戦に対して否定的でない環境だとなお嬉しいです
+
