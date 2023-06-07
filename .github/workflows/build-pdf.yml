@@ -10,13 +10,15 @@ jobs:
     name: build pdf and upload release
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '14'
-      - run: npm install
+          node-version: '16.x'
+      - name: Install dependencies
+        run: yarn
       - name: build pdf
-        run: npm run build:pdf
+        run: yarn build:pdf
       - name: create release
         id: create_release
         uses: actions/create-release@v1
