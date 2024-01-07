@@ -13,7 +13,7 @@
 
 ## 概要
 
-エンジニアとして 8 年の実務経験があります。ゲームアプリの開発やモバイルアプリ、Web アプリの開発と運用を経験しました。
+エンジニアとして 10 年の実務経験があります。ゲームアプリの開発やモバイルアプリ、Web アプリの開発と運用を経験しました。
 リリースサイクルの短いアプリを短期間に開発したり、フロントエンドとバックエンドを同時に触る機会が多かったため、複数プロジェクトに対して横断的に参画できます。
 
 アプリの海外展開（簡体字・繁体字・韓国語）や海外出身の方とのコミュニケーションを取る機会が多々あったため、英語でのコミュニケーションに抵抗はありません。  
@@ -30,6 +30,7 @@
 - Vue, React でのフロントエンドの設計・開発
 - Laravel, Rails でのバックエンドの設計・開発
 - WordPress を活用したシステムの設計・開発
+- Shopify, ecforce, W2 Repeat を活用した EC サイト制作
 - プロジェクトマネジメント
 - 勉強会などのコミュニティ形成
 - テックブログなどの定期的な情報発信
@@ -81,6 +82,13 @@
 
 職務：シニアエンジニア（Mobile App Rockstar）
 
+#### [Workbench](https://www.jetro.go.jp/news/announcement/2023/7379158e30a148b2.html/)
+
+- 担当フェーズ
+    - 要件定義、設計、フロントエンドの開発、テスト
+- 開発環境
+    - Vite, Vue, TypeScript
+
 #### [Spearly CMS](https://cms.spearly.com/)
 
 - 担当フェーズ
@@ -115,10 +123,19 @@
 - 担当フェーズ
   - 事業責任者 
 
+### ECサイト構築
+
+- 担当フェーズ
+  - 顧客折衝、要件定義、設計、開発、テスト
+- 開発環境
+  - WordPress, WooCommerce, Google Apps Script
+
 #### ECサイト構築
 
 - 担当フェーズ
-    - 技術顧問
+  - 技術顧問
+- 開発環境
+  - Shopify, ecforce, W2 Repeat 
 
 #### 業務管理システム
 
@@ -188,7 +205,9 @@
 
 ### 2014/04 - 2019/04 : 株式会社freep
 
+<!-- textlint-disable -->
 職務：モバイルアプリエンジニア、ゲームエンジニア、バックエンドエンジニア
+<!-- textlint-enable -->
 
 #### カジュアルゲームの海外展開対応
 
@@ -298,6 +317,10 @@
 
 ### 登壇
 
+<!-- textlint-disable -->
+
+- 鹿児島.mk 年末LT会 with エンジニア Bar 忘年会 (2023/12/08)
+  - [今年のメタバースについての取り組みとこれから](https://speakerdeck.com/qst_exe/jin-nian-nometabasunituitenoqu-rizu-mitokorekara-61ba8aca-e0c7-4807-8696-d949ec16316c)  
 - Web ナイト宮崎 Vol.17 (2023/04/14)
   - [オンラインイベントの失敗談と対応 〜「コロナ禍の鹿児島」のそれから〜](https://docs.google.com/presentation/d/1f7IKsM8r-l6ta6UkswL8bQsz6-R7ZX7I_x98f5f9lXM/edit#slide=id.g89d8af4848_0_0)
 - さくらじまハウス 2022 (2022/10/27 - 28)
@@ -315,17 +338,20 @@
 - その他の登壇資料
   - [https://speakerdeck.com/qst_exe](https://speakerdeck.com/qst_exe) 
 
+<!-- textlint-enable -->
+
 ---
 
 ## 各種アカウント
 
-| key | value |
-|--|---|
-| GitHub | [@qst-exe](https://github.com/qst-exe)  |
-| Twitter | [@qst_exe](https://twitter.com/qst_exe) |
-| Zenn | [qst](https://zenn.dev/qst) |
-| SpeakerDeck | [qst_exe](https://speakerdeck.com/qst_exe) |
-| ブログ | [メタバースで遊ぶ鹿児島のアプリエンジニア](https://blog.kusutan.com/) |
+| key | value                                             |
+|--|---------------------------------------------------|
+| GitHub | [@qst-exe](https://github.com/qst-exe)            |
+| Twitter | [@qst_exe](https://twitter.com/qst_exe)           |
+| Zenn | [qst](https://zenn.dev/qst)                       |
+| SpeakerDeck | [qst_exe](https://speakerdeck.com/qst_exe)        |
+| ブログ | [メタバースで遊ぶ鹿児島のアプリエンジニア](https://blog.qst-exe.com/) |
+| note | [@qst_exe](https://note.com/qst_exe) |
 
 ---
 
