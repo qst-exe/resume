@@ -123,10 +123,17 @@
 - 担当フェーズ
   - 事業責任者 
 
+### ECサイト構築
+
+- 担当フェーズ
+  - 顧客折衝、要件定義、設計、開発、テスト
+- 開発環境
+  - WordPress, WooCommerce, Google Apps Script
+
 #### ECサイト構築
 
 - 担当フェーズ
-    - 技術顧問
+  - 技術顧問
 - 開発環境
   - Shopify, ecforce, W2 Repeat 
 
