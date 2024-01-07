@@ -317,6 +317,8 @@
 
 ### 登壇
 
+<!-- textlint-disable -->
+
 - 鹿児島.mk 年末LT会 with エンジニア Bar 忘年会 (2023/12/08)
   - [今年のメタバースについての取り組みとこれから](https://speakerdeck.com/qst_exe/jin-nian-nometabasunituitenoqu-rizu-mitokorekara-61ba8aca-e0c7-4807-8696-d949ec16316c)  
 - Web ナイト宮崎 Vol.17 (2023/04/14)
@@ -335,6 +337,8 @@
   - [初学者がRailsを学ぶことの功罪](https://speakerdeck.com/qst_exe/chu-xue-zhe-garailswoxue-bukotofalsegong-zui)
 - その他の登壇資料
   - [https://speakerdeck.com/qst_exe](https://speakerdeck.com/qst_exe) 
+
+<!-- textlint-enable -->
 
 ---
 
