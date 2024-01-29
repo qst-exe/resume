@@ -13,7 +13,7 @@
   "keywords": [],
   "devDependencies": {
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
-    "husky": "^8.0.3",
+    "husky": "^9.0.7",
     "md-to-pdf": "^5.2.4",
     "textlint": "^13.4.1",
     "textlint-filter-rule-comments": "^1.2.2",
