@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "qst-exe resume",
   "engines": {
-    "node": "18.17.x"
+    "node": "20.11.x"
   },
   "scripts": {
     "lint": "textlint docs/README.md",
