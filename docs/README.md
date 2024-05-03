@@ -127,7 +127,7 @@
 - 担当フェーズ
   - 事業責任者
 - 弊社の取組を南日本新聞に取り上げていただきました
-  - [ 現実と仮想空間を融合したら…「XR」普及へ鹿児島市で体験会 ](https://373news.com/_news/storyid/191790/) 
+  - [現実と仮想空間を融合したら…「XR」普及へ鹿児島市で体験会](https://373news.com/_news/storyid/191790/) 
 
 ### ECサイト構築
 
@@ -329,7 +329,7 @@
 
 <!-- textlint-disable -->
 
-- Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~ (2024/04/28)
+- Babylon.js 勉強会 vol.3 Babylon.js v7 リリース記念 (2024/04/28)
   - [Babylon.js で始めるヘッドレス CMS](https://speakerdeck.com/qst_exe/a-headless-cms-on-babylon-dot-js)
 - 鹿児島.mk 年末LT会 with エンジニア Bar 忘年会 (2023/12/08)
   - [今年のメタバースについての取り組みとこれから](https://speakerdeck.com/qst_exe/jin-nian-nometabasunituitenoqu-rizu-mitokorekara-61ba8aca-e0c7-4807-8696-d949ec16316c)  
