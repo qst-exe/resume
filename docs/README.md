@@ -72,6 +72,8 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat" alt="jQuery">
   <img src="https://img.shields.io/badge/-Solar2D(CoronaSDK)-0769AD.svg?logo=Solar2D&style=flat&color=orange" alt="Corona">
   <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=Unity&style=flat" alt="Unity">
+  <img src="https://img.shields.io/badge/-WebXR-0769AD.svg?logo=Solar2D&style=flat&color=blue" alt="Corona">
+  <img src="https://img.shields.io/badge/-AI-0769AD.svg?logo=Solar2D&style=flat&color=purple" alt="Corona">
 </p>
 
 ---
@@ -80,9 +82,9 @@
 
 ### 2022/10 - : 株式会社ユニマル
 
-職務：シニアエンジニア（Mobile App Rockstar）
+職務：シニアエンジニア（Rockstar）
 
-#### [Workbench](https://www.jetro.go.jp/news/announcement/2023/7379158e30a148b2.html/)
+#### [Workbench](https://workbench.spearly.com/)
 
 - 担当フェーズ
     - 要件定義、設計、フロントエンドの開発、テスト
@@ -95,6 +97,8 @@
   - 要件定義、設計、開発、テスト
 - 開発環境
   - Rails, Vue, TypeScript
+- AI を活用した A/B テスト機能の開発
+  - [ECサイトの全商品の分析・最適化を継続的にAIが自動でサポートするECサイト改善支援アプリの提供を開始](https://prtimes.jp/main/html/rd/p/000000009.000016521.html)
 
 #### [Spearly CLOUD](https://cloud.spearly.com/)
 
@@ -121,7 +125,9 @@
 #### メタバースに関する新規事業開発
 
 - 担当フェーズ
-  - 事業責任者 
+  - 事業責任者
+- 弊社の取組を南日本新聞に取り上げていただきました
+  - [現実と仮想空間を融合したら…「XR」普及へ鹿児島市で体験会](https://373news.com/_news/storyid/191790/) 
 
 ### ECサイト構築
 
@@ -323,6 +329,8 @@
 
 <!-- textlint-disable -->
 
+- Babylon.js 勉強会 vol.3 Babylon.js v7 リリース記念 (2024/04/28)
+  - [Babylon.js で始めるヘッドレス CMS](https://speakerdeck.com/qst_exe/a-headless-cms-on-babylon-dot-js)
 - 鹿児島.mk 年末LT会 with エンジニア Bar 忘年会 (2023/12/08)
   - [今年のメタバースについての取り組みとこれから](https://speakerdeck.com/qst_exe/jin-nian-nometabasunituitenoqu-rizu-mitokorekara-61ba8aca-e0c7-4807-8696-d949ec16316c)  
 - Web ナイト宮崎 Vol.17 (2023/04/14)
